@@ -3,18 +3,17 @@
 ## Overview
 React application consuming NASA's Astronomy Picture of the Day (APOD) API. Built as part of a technical assessment to demonstrate API integration, error handling, and responsive UI design.
 
-## Live Demo
-[Add your deployed link here if applicable]
+
 
 ## Features
-- 📅 **List View**: Browse recent astronomy pictures with pagination
-- 🔍 **Detail View**: Click any image for detailed explanation
-- 🎬 **Media Handling**: Supports both images and videos from NASA
-- ⚡ **Loading States**: Smooth loading indicators
-- 🚨 **Error Handling**: Comprehensive error states with retry options
-- 📱 **Responsive Design**: Works on mobile, tablet, and desktop
-- 📊 **Summary View**: Categorization by media type
-- 🛡️ **Data Validation**: Handles missing/inconsistent API data
+- **List View**: Browse recent astronomy pictures with pagination
+- **Detail View**: Click any image for detailed explanation
+- **Media Handling**: Supports both images and videos from NASA
+- **Loading States**: Smooth loading indicators
+- **Error Handling**: Comprehensive error states with retry options
+- **Responsive Design**: Works on mobile, tablet, and desktop
+- **Summary View**: Categorization by media type
+- **Data Validation**: Handles missing/inconsistent API data
 
 ## Why NASA APOD API?
 | Aspect | Reason |
