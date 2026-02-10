@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'DEMO_KEY'; // NASA's demo key
+const API_KEY = 'dePOHhOU8yjKPjgZCCNEcZE7pAjfnymd0nugbEwV';
 const BASE_URL = 'https://api.nasa.gov/planetary/apod';
 
 class NasaService {

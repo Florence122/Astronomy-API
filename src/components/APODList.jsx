@@ -154,16 +154,6 @@ const APODList = () => {
           </Link>
         ))}
       </div>
-
-      {/* Show data quality notice */}
-      {apods.some(apod => !apod.copyright) && (
-        <div className="data-quality-notice">
-          <p>
-            ⓘ Some images have missing metadata. This shows real-world 
-            API inconsistencies that the app handles gracefully.
-          </p>
-        </div>
-      )}
     </div>
   );
 };

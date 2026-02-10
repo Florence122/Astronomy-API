@@ -12,14 +12,6 @@ function App() {
           <Route path="/" element={<APODList />} />
           <Route path="/apod/:date" element={<APODDetail />} />
         </Routes>
-        
-        <footer className="app-footer">
-          <p>
-            Powered by NASA's Astronomy Picture of the Day API | 
-            Built for Technical Assessment | 
-            DEMO_KEY rate limited
-          </p>
-        </footer>
       </div>
     </Router>
   );
